@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Farzin</h1>
-<h3 align="center">I am an ML engineer Intern at Packapeer Academy private Ltd., I work on projects using Deep Learning, NLP, and OpenCV</h3>
+<h3 align="center">I am an ML engineer Intern at SeiSei.ai., I work on projects using Tensorflow, Pytroch and OpenCV</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedfarzin&label=Profile%20views&color=000000&style=flat" alt="mohammedfarzin" /> </p>
 
