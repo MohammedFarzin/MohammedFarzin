@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Farzin</h1>
-<h3 align="center">I am an ML engineer. I work on projects using Tensorflow, Pytroch and OpenCV</h3>
+<h3 align="center">I am an AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedfarzin&label=Profile%20views&color=000000&style=flat" alt="mohammedfarzin" /> </p>
 
-- 🔭 I’m currently learning about **Docker**
+- 🔭 I’m currently learning about **Docker and Kubernetes**
 
 - 📝 I write articles on [https://medium.com/@mohammedfarzin.m123](https://medium.com/@mohammedfarzin.m123)
 
